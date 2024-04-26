@@ -19,4 +19,4 @@ const ariel=
     sala:2,
     turno:"manha"
 }
-     
+console.log(rayssa)

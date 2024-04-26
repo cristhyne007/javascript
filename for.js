@@ -1,3 +1,4 @@
+
 const escola=[{nome:"luis",
     endereço:"rua riachuelo",
     notaFinal:9,
@@ -17,7 +18,9 @@ const escola=[{nome:"luis",
         sala:2,
         turno:"manha"}]
 
-   console.log(escola[4].nome)
+for(let i= 0;i< escola.lenght;i++){
+    console.log(escola[i].notafinal)
+}
 
 
-    
+
